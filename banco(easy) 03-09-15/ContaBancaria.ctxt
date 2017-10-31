@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=nome\ num
+comment0.target=ContaBancaria(java.lang.String,\ int)
+comment0.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ ContaBancaria\r\n
+comment1.params=valor
+comment1.target=void\ sacar(double)
+comment2.params=valor
+comment2.target=void\ depositar(double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=double\ getSaldo()
+comment5.params=
+comment5.target=java.lang.String\ getCliente()
+comment6.params=
+comment6.target=int\ getNumConta()
+comment7.params=valor
+comment7.target=void\ setSaldo(double)
+numComments=8

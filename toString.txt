@@ -1,0 +1,5 @@
+public String toString()
+This object (which is already a string!) is itself returned.
+
+Returns:
+the string itself.
